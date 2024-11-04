@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-This is an academic personal websites for Xiaowen Zhan.
+This is an academic personal websites for Xiaowen Zhang.
